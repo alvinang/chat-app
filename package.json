@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "socket.io": "~0.9.6",
-    "mime": "~1.2.7",
+    "socket.io": "~2.4.0",
+    "mime": "~1.4.1",
     "node-static": "0.7.3",
-    "newrelic": "1.4.0"   
+    "newrelic": "1.13.3"   
   }
 }
